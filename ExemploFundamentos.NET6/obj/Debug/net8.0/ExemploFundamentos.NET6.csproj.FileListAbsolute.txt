@@ -1,0 +1,14 @@
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\bin\Debug\net8.0\ExemploFundamentos.NET6.exe
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\bin\Debug\net8.0\ExemploFundamentos.NET6.deps.json
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\bin\Debug\net8.0\ExemploFundamentos.NET6.runtimeconfig.json
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\bin\Debug\net8.0\ExemploFundamentos.NET6.dll
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\bin\Debug\net8.0\ExemploFundamentos.NET6.pdb
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ExemploFundamentos.NET6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ExemploFundamentos.NET6.AssemblyInfoInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ExemploFundamentos.NET6.AssemblyInfo.cs
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ExemploFundamentos.NET6.csproj.CoreCompileInputs.cache
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ExemploFundamentos.NET6.dll
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\refint\ExemploFundamentos.NET6.dll
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ExemploFundamentos.NET6.pdb
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ExemploFundamentos.NET6.genruntimeconfig.cache
+C:\Users\leopd\Desktop\Atividades DIO\teste\ExemploFundamentos.NET6\obj\Debug\net8.0\ref\ExemploFundamentos.NET6.dll
